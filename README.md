@@ -24,7 +24,7 @@ Just simply install all mentioned libraries and open the code in your editor. Af
 All the instructions regarding running the project are mentioned in the project itself!
 
 ## Video tutorial
-[Youtube link]()
+[Youtube link](https://www.youtube.com/watch?v=mrEF6bWJRZ0)
 
 ## Developers
 [Harsh Soni](https://www.linkedin.com/in/harsh24soni)
